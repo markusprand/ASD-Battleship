@@ -48,5 +48,5 @@ If you want to store the database file in your project path, please adapt the va
 
 [![codecov](https://codecov.io/gh/markusprand/ASD-Battleship/branch/master/graph/badge.svg)](https://codecov.io/gh/markusprand/ASD-Battleship)
 
-
+[![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=markusprand_ASD-Battleship.svg)](https://sonarcloud.io/dashboard/index/com.cicd:markusprand_ASD-Battleship)
 
