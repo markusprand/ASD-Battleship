@@ -43,3 +43,5 @@ The default Database will be be created as stated in the class Database for vari
 If you want to store the database file in your project path, please adapt the variable.
 
 [![Build Status](https://travisci.com/markusprand/ASD-Battleship.svg)](https://travis-ci.com/markusprand/ASD-Battleship) 
+
+[![docker build](https://img.shields.io/docker/build/markusprand/ASD-Battleship)](https://cloud.docker.com/u/markusprand/repository/docker/markusprand ASD-Battleship)
